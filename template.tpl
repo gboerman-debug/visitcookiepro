@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "123 VCP Cookie Banner",
+  "categories": ["UTILITY"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Visit Cookie Pro",
