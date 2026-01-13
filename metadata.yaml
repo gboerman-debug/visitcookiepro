@@ -1,5 +1,5 @@
 homepage: "https://visitpro.nl"
 documentation: "https://www.visitpro.nl/services.php"
 versions:
-  - sha: 123_Cookie_Banner_Total
-    changeNotes: 1.0.0.
+  - sha: 6d1a4bf
+    changeNotes: Initial public release.
